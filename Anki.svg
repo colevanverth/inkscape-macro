@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="650"
+   height="300"
+   viewBox="0 0 171.97917 79.374998"
+   version="1.1"
+   id="svg1"
+   inkscape:export-filename="bitmap.pdf"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   sodipodi:docname="Unnamed document 1"
+   inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#3a3a3a"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:export-bgcolor="#00000000"
+     inkscape:zoom="1.0758902"
+     inkscape:cx="260.71434"
+     inkscape:cy="284.41564"
+     inkscape:window-width="1512"
+     inkscape:window-height="917"
+     inkscape:window-x="0"
+     inkscape:window-y="65"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="marker37"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide, rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path37" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker24"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide, rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path24" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="ArrowWideRounded"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide, rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path2" />
+    </marker>
+    <clipPath
+       id="clipPath9543">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.264583;stroke-opacity:1"
+         width="58.54327"
+         height="36.054085"
+         x="19.454927"
+         y="10.352163"
+         id="rect3" />
+    </clipPath>
+    <clipPath
+       id="clipPath5598">
+      <rect
+         style="fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:0.264583;stroke-opacity:1"
+         width="45.335339"
+         height="45.335339"
+         x="36.589542"
+         y="7.4963942"
+         id="rect4" />
+    </clipPath>
+    <marker
+       style="overflow:visible"
+       id="marker37-5"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Wide, rounded arrow"
+       markerWidth="1"
+       markerHeight="1"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:round"
+         d="M 3,-3 0,0 3,3"
+         transform="rotate(180,0.125,0)"
+         sodipodi:nodetypes="ccc"
+         id="path37-5" />
+    </marker>
+    <symbol
+       id="g38">
+      <g
+         id="g37"
+         transform="translate(-3.196965,7.3776116)">
+        <path
+           style="fill:#808080;stroke:#ffffff;stroke-width:0.224948;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker37);paint-order:normal"
+           d="M 46.233033,54.594325 H 128.66191"
+           id="path36" />
+        <path
+           style="fill:#808080;stroke:#ffffff;stroke-width:0.182755;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker37-5);paint-order:normal"
+           d="M 46.233033,54.594325 V 0.18700777"
+           id="path36-5" />
+      </g>
+    </symbol>
+    <clipPath
+       id="clipPath7696">
+      <rect
+         style="fill:#808080;fill-opacity:0;stroke:#ffffff;stroke-width:0.25"
+         width="68.17186"
+         height="47.949871"
+         x="51.919796"
+         y="10.304558"
+         id="rect5" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="symbol6"
+       transform="translate(-53.856565,82.62925)">
+      <g
+         id="use6">
+        <g
+           id="g8">
+          <path
+             style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.264999;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ArrowWideRounded)"
+             d="M 53.558728,55.819325 H 122.07217"
+             id="path7" />
+          <path
+             style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.222217;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker24)"
+             d="M 53.558728,55.819325 V 7.6419918"
+             id="path8"
+             sodipodi:nodetypes="cc" />
+        </g>
+      </g>
+      <title
+         id="title7">axis</title>
+    </g>
+    <rect
+       style="fill:#808080;stroke:#ffffff;stroke-width:0.25;fill-opacity:0"
+       id="rect1"
+       width="68.17186"
+       height="47.949871"
+       x="76.429321"
+       y="90.744614" />
+  </g>
+  <inkscape:templateinfo>
+    <inkscape:name>Anki</inkscape:name>
+    <inkscape:date>2024-12-21</inkscape:date>
+  </inkscape:templateinfo>
+</svg>
