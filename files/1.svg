@@ -10,7 +10,7 @@
    inkscape:export-filename="bitmap.pdf"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
-   sodipodi:docname="1.svg"
+   sodipodi:docname="Unnamed document 1"
    inkscape:version="1.4 (e7c3feb1, 2024-10-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -28,12 +28,12 @@
      inkscape:document-units="mm"
      inkscape:export-bgcolor="#00000000"
      inkscape:zoom="1.0758902"
-     inkscape:cx="228.64787"
-     inkscape:cy="12.083017"
+     inkscape:cx="260.71434"
+     inkscape:cy="284.41564"
      inkscape:window-width="1512"
-     inkscape:window-height="853"
+     inkscape:window-height="917"
      inkscape:window-x="0"
-     inkscape:window-y="38"
+     inkscape:window-y="65"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer1" />
   <defs
@@ -190,12 +190,12 @@
          id="title7">axis</title>
     </g>
     <rect
-       style="fill:#808080;fill-opacity:0;stroke:#ffffff;stroke-width:0.25"
+       style="fill:#808080;stroke:#ffffff;stroke-width:0.25;fill-opacity:0"
        id="rect1"
        width="68.17186"
        height="47.949871"
-       x="17.817724"
-       y="15.712564" />
+       x="76.429321"
+       y="90.744614" />
   </g>
   <inkscape:templateinfo>
     <inkscape:name>Anki</inkscape:name>
