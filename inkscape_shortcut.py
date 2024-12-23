@@ -19,6 +19,7 @@ def handle_inkscape():
     shutil.copy(TEMPLATE_FN, fn)
     m_time = os.path.getmtime(fn)
     p = subprocess.Popen(["inkscape", fn])
+
     while True:
         time.sleep(0.25)
         if os.path.getmtime(fn) != m_time:
@@ -31,15 +32,12 @@ def copy_to_clipboard(fn):
     format = "PNG" 
     pasteboard = NSPasteboard.generalPasteboard()
     image_data = NSData.dataWithContentsOfFile_(fn)
-    if format not in ("PNG", "TIFF"):
-      raise TypeError("Invalid format, must be PNG or TIFF")
-    format_type = NSPasteboardTypePNG if format == "PNG" else NSPasteboardTypeTIFF
+    format_type = NSPasteboardTypePNG
     pasteboard.clearContents()
     pasteboard.setData_forType_(image_data, format_type)
 
 def export_pipeline(fn):
     temp_dir = tempfile.TemporaryDirectory()
-    # temp_dir.name = "temp" # TODO: Remove
     
     fn_base = fn.removeprefix("files/").removesuffix(".svg")
 
